@@ -7,7 +7,7 @@ Helper addon that allows to:
 - Measure Latency
 - Warning the user if there is a slow connection
 
-LatencyWarning add-on is constituted of three classes:
+LatencyWarning add-on is constituted of two classes:
 
 - [`LatencyWarning`]
 - [`LatencyDetection`]
